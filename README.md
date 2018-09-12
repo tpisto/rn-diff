@@ -1,4 +1,11 @@
 # RN diff
+<<<<<<< HEAD
+=======
+
+This branch contains a blank React Native project and is pretty
+useless when being used alone. See the documentation on the master
+branch for details.
+>>>>>>> rn-0.57.0
 
 This repository exposes an untouched React Native app generated with the CLI
 `react-native init RnDiffApp` and upgraded with the CLI `react-native upgrade`
